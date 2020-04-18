@@ -1,7 +1,7 @@
 import UIKit
 
 enum IMCResult: String {
-    case thinnes = "Magreza"
+    case thinnes = "Muito Magro(a)"
     case under = "Abaixo do peso"
     case ideal = "Peso ideal"
     case over = "Sobrepeso"
